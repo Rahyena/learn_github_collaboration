@@ -1,3 +1,3 @@
-In this course, I have learned how to use Git and GitHub for version control.  
-I learned how to clone repositories, create and manage files locally, commit changes, and push updates to GitHub.  
-I also learned how to track changes and collaborate using GitHub effectively.
+I have learned how to use Git and GitHub.  
+I can clone repositories, create files, commit changes, and push them to GitHub.  
+I now understand version control and how developers collaborate using GitHub.
